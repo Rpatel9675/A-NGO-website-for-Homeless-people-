@@ -19,15 +19,12 @@ The primary objective of Aashiyana is to bridge the gap between homeless individ
 
 **Technology Stack:** HTML, CSS, JavaScript, React.js
 
-   
-![1](https://github.com/user-attachments/assets/c93ed5cf-c81e-414d-92a1-85b11cb46f47)
-![2](https://github.com/user-attachments/assets/2a4c05f4-d683-44f3-ad6b-4ed18bb8fd87)
-![3](https://github.com/user-attachments/assets/6173bebc-9e4d-4afb-b3fe-0d4dc3!8024b6)
-[4](https://github.com/user-attachments/assets/d84e73b3-1cdd-404a-8e59-60fa316bd6cd)
+![1](https://github.com/user-attachments/assets/aa32571c-13fc-421f-a6ac-e120bd0850e5)
 
-![5](https://github.com/user-attachments/assets/a9889ab9-ba58-4adb-8c39-6572d6db801b)
+![2](https://github.com/user-attachments/assets/92cc689f-1c61-44ea-b4e4-ab4464b6c8fc)
 
+![3](https://github.com/user-attachments/assets/783a3aa4-e53e-44e4-9d58-ca7c4fac67b3)
 
+![4](https://github.com/user-attachments/assets/61f09cdf-cfe6-4736-a103-4712716f7b27)
 
-  
-
+![5](https://github.com/user-attachments/assets/292b9c4b-c034-4d00-8a21-e7d9bb9422df)
