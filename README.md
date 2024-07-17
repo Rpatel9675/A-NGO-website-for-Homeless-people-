@@ -14,12 +14,18 @@ The primary objective of Aashiyana is to bridge the gap between homeless individ
 - **Resource Directory:** Comprehensive directory of available resources, including shelters, food banks, medical aid, and more.
 - **Search and Filter:** Advanced search and filter options to help users quickly find relevant services and resources.
 - **Real-time Notifications:** Keep users informed about new resources, updates, and important announcements.
-- **Feedback and Rating System:** Allows users to provide feedback on services received to ensure quality and reliability.![1](https://github.com/user-attachments/assets/c93ed5cf-c81e-414d-92a1-85b11cb46f47)
+- **Feedback and Rating System:** Allows users to provide feedback on services received to ensure quality and reliability.
+-- **Technology Stack:** HTML, CSS, JavaScript, React.js
 
-![3](https://github.com/user-attachments/assets/6173bebc-9e4d-4afb-b3fe-0d4dc3![4](https://github.com/user-attachments/assets/d84e73b3-1cdd-404a-8e59-60fa316bd6cd)
-8024b6)![5](https://github.com/user-attachments/assets/a9889ab9-ba58-4adb-8c39-6572d6db801b)
+   
+![1](https://github.com/user-attachments/assets/c93ed5cf-c81e-414d-92a1-85b11cb46f47)
+![2](https://github.com/user-attachments/assets/2a4c05f4-d683-44f3-ad6b-4ed18bb8fd87)
+![3](https://github.com/user-attachments/assets/6173bebc-9e4d-4afb-b3fe-0d4dc3!8024b6)
+[4](https://github.com/user-attachments/assets/d84e73b3-1cdd-404a-8e59-60fa316bd6cd)
+
+![5](https://github.com/user-attachments/assets/a9889ab9-ba58-4adb-8c39-6572d6db801b)
 
 
-- **Technology Stack:** HTML, CSS, JavaScript, React.js
-  ![2](https://github.com/user-attachments/assets/2a4c05f4-d683-44f3-ad6b-4ed18bb8fd87)
+
+  
 
