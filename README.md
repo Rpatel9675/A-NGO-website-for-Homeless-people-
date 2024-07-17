@@ -15,7 +15,9 @@ The primary objective of Aashiyana is to bridge the gap between homeless individ
 - **Search and Filter:** Advanced search and filter options to help users quickly find relevant services and resources.
 - **Real-time Notifications:** Keep users informed about new resources, updates, and important announcements.
 - **Feedback and Rating System:** Allows users to provide feedback on services received to ensure quality and reliability.
--- **Technology Stack:** HTML, CSS, JavaScript, React.js
+
+
+**Technology Stack:** HTML, CSS, JavaScript, React.js
 
    
 ![1](https://github.com/user-attachments/assets/c93ed5cf-c81e-414d-92a1-85b11cb46f47)
